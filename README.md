@@ -1,0 +1,1 @@
+# mdd_070_DESIGN_PATTERN
